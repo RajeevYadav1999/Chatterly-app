@@ -1,0 +1,79 @@
+.main-footer{
+    margin: 15px;
+    padding: 10px;
+    display: flex;
+}
+
+.training{
+    display: flex;
+    gap: 8px;
+}
+
+.training-blog{
+    width: 350px;
+    margin-left: 110px;
+}
+
+.training-blog p{
+    margin-top: 10px;
+    font-style: Plus Jakarta Sans;
+    line-height: 1.6;
+    font-size: 17px;
+}
+
+.blog{
+    color: red;
+}
+
+.category{
+    margin-left: 80px;
+}
+
+.cat-list{
+    margin-top: 10px;
+}
+
+.cat-list li{
+    margin: 5px;
+    list-style-type: none;
+}
+
+.touch{
+    margin-left: 150px;
+}
+
+.touch h3{
+    margin-left: 10px;
+}
+
+.touch li{
+    margin: 10px;
+    list-style-type: none;
+}
+
+.follow{
+    margin-left: 150px;
+}
+
+.follow-icons{
+    display: flex;
+    margin: 15px;
+    justify-content: space-evenly;
+    font-size: 22px;
+}
+
+.end-footer{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.copy{
+    margin-left: 70px;
+}
+
+.made{
+    margin-right: 90px;
+}
+
+

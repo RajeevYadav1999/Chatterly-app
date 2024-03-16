@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    background-color: #ebf0ff;
+    padding: 20px;
+    margin-top: 15px;
+}
+
+.main h3{
+    margin-left: 80px;
+    font-size: 30px;
+}
+
+.blog-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 30px;
+}

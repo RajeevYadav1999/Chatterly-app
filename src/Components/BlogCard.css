@@ -1,0 +1,60 @@
+.blog-data{
+background-color: white;
+width: 350px;
+height: 380px;
+margin-top: 30px;
+border-radius: 10px;
+}
+
+.blog-data img{
+    width: 310px;
+    height: 210px;
+    margin-left: 17px;
+    margin-top: 14px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.blog-data h2{
+    margin-left: 17px;
+    font-style: Plus Jakarta Sans;
+}
+
+.blog-footer{
+    display: flex;
+}
+
+.blog-footer img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    
+}
+
+.footer-text{
+    margin-left: 10px;
+}
+
+.footer-name{
+    margin-top:10px;
+    font-weight: bold;
+    font-style: Plus Jakarta Sans;
+    font-size: 16px;
+}
+
+.footer-date{
+    margin-top: 10px;
+    color: #797979;
+
+}
+
+.footer-icons{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 40px;
+    gap: 13px;
+    color: #797979;
+
+}
+
+ 

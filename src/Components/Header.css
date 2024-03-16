@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.chatterly{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.header{
+    box-shadow: #f4f4f4 10px 11px;
+}
+
+.chatterly-logo{
+    color: blue;
+}
+
+.chatterly h3{
+    margin-left: 110px;
+}
+
+.user-container{
+    display: flex;
+    margin-right: 250px;
+}
+
+.user-container select{
+    border: none;
+    font-weight: bold;
+}
+
+.user-container img{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.filter{
+    display: flex;
+    margin-left: 40px;
+}
+
+.filter h3{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.vertical-line{
+    height: 40px;
+    border: 0.5px solid #bdbcbc;
+    margin-top: 15px;
+    margin-left: 40px;
+    left: 250px;
+}
+
+.created{
+    margin-left: 60px;
+    margin-top: 5px;
+    color: #7e7e7e;
+}
+
+.created select{
+    width: 130px;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: #d8d8d8;
+    margin-top: 5px;
+}
+
+.publish{
+    margin-left: 60px;
+    margin-top: 5px;
+    color: #7e7e7e;
+}
+
+.publish select{
+    width: 130px;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: #d8d8d8;
+    margin-top: 5px;
+    width: 130px;
+}
+
+.Search{
+    margin-left: 500px;
+    margin-top: 5px;
+    color: #7e7e7e;
+    position: relative;
+    font-size: 15px;
+}
+
+.Search input{
+    border-radius: 10px;
+    padding: 2px;
+    background-color: #d8d8d8;
+}
+
+.icon{
+    height: 10px;
+    width: 10px;
+    text-decoration: none;
+    border: none;
+    position: relative;
+    right: 25px;
+    top: 8px;
+    background: none;
+}
+    
+
+
+
